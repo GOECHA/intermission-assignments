@@ -87,7 +87,7 @@ Here are some additional resources:
 - Take a look at some extra [JSX gotchas (courtesy of tyler McGinnis)](https://ui.dev/jsx/)- [Testing with Fun Fun Function](https://www.youtube.com/playlist?list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr) (This is a playlist of 7 YouTube videos on testing)
 - [Shop Talk with Tom Dale](http://shoptalkshow.com/episodes/147-tom-dale/) (This one is a bit older but still a good introduction for thinking about why client-side applications are important and what frameworks bring to the table.)
 - [Intro to JS Modules](https://tylermcginnis.com/javascript-modules-iifes-commonjs-esmodules/) (Ever been confused about `module.exports` vs `export default`? When to use `import` vs `require()`? Read this for some clarity)
-- [NPM Refresher](https://ui.dev/npm/) (We're going to be using a lot of packages, make sure you're comfortable with your pakcage manager!)
+- [NPM Refresher](https://ui.dev/npm/) (We're going to be using a lot of packages, make sure you're comfortable with your package manager!)
 - [Wes Bos JavaScript30](https://javascript30.com) (Maybe pick 5 or 10 exercises - try to challenge yourself)
 - [100 Days of CSS challenge](https://100dayscss.com/) (Do a few days of challenges to keep your CSS skills sharp)
 - Watch [this video](https://www.youtube.com/watch?v=eesqK59rhGA) on details of the request/response cycle.
